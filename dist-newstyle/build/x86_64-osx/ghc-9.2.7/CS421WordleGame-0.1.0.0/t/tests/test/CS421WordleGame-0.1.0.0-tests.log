@@ -1,0 +1,4 @@
+Test suite tests: RUNNING...
+Cases: 6  Tried: 0  Errors: 0  Failures: 0Cases: 6  Tried: 1  Errors: 0  Failures: 0Cases: 6  Tried: 2  Errors: 0  Failures: 0Cases: 6  Tried: 3  Errors: 0  Failures: 0Cases: 6  Tried: 4  Errors: 0  Failures: 0Cases: 6  Tried: 5  Errors: 0  Failures: 0                                          Cases: 6  Tried: 6  Errors: 0  Failures: 0
+Test suite tests: PASS
+Test suite logged to: /Users/m.a.aparna/CS421WordleGame/dist-newstyle/build/x86_64-osx/ghc-9.2.7/CS421WordleGame-0.1.0.0/t/tests/test/CS421WordleGame-0.1.0.0-tests.log
